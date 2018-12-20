@@ -1,2 +1,2 @@
-# locally ignore .bak files
+#Locally ignoring the bak file
 *.bak
