@@ -1,4 +1,1 @@
-This is a git log file
-new text
-
-firest build
+New featureds added
