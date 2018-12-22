@@ -6,3 +6,6 @@ Kheer
 Biriyani
 Pasta
 Chicken Fry
+
+Pizza
+Burgers
